@@ -85,6 +85,7 @@ git commit --help
 * Фиксирование изменений в файлах через git commit
 * Проверка состояния репозитория через git log and git diff
 
+# 
 
 
 
@@ -181,5 +182,8 @@ git commit --help
 ## git log --graph
 *визуализирует веткиZ
 
+## cd folder
+*Поменять директорию*
 
-Пышь пышь оло ло lesson 3
+*Назад*
+**cd..**
