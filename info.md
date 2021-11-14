@@ -180,3 +180,6 @@ git commit --help
 
 ## git log --graph
 *визуализирует веткиZ
+
+
+Пышь пышь оло ло lesson 3
